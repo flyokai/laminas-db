@@ -1,4 +1,6 @@
-# wtsergo/laminas-db
+# flyokai/laminas-db
+
+> User docs → [`README.md`](README.md) · Agent quick-ref → [`CLAUDE.md`](CLAUDE.md) · Agent deep dive → [`AGENTS.md`](AGENTS.md)
 
 Fork of Laminas DB providing the base database abstraction layer. Does NOT contain async implementations — async is provided by sibling packages (`laminas-db-driver-amp`, `laminas-db-driver-async`).
 
